@@ -10,6 +10,8 @@ pip install opencv-python
 # Website #
 <a href='https://thcmeter.gr'>www.thcmeter.gr</a>
 
+# Video Example #
+<a href='https://www.youtube.com/watch?v=yONwQJWCl9U'>https://www.youtube.com/watch?v=yONwQJWCl9U</a>
 # License #
 
 MIT License
