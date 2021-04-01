@@ -1,5 +1,5 @@
 # THCMeter
-A Python script detect the THC of Cannabis from 3 images of buds
+A Python script detect the THC levels of Cannabis from 3 images of buds
 
 # Requirements #
 
